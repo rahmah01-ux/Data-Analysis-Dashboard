@@ -1,4 +1,4 @@
-# Data Profesional Survey Breakdown (Interactve Dashboard using MS Excel)
+# Data Profesional Survey Breakdown (Interactive Dashboard using MS Excel)
 ## A Power BI dashboard project involving data cleaning, transformation, and visualisation. It explores difficulty breaking into data, average salary by job title, and preferred programming languages using interactive charts and slicers.
 
 ## Dataset used
