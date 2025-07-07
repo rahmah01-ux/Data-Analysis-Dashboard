@@ -22,3 +22,5 @@
 - Filtered out irrelevant job categories to focus on key sectors
 - Built relationships between tables and designed interactive visuals
 
+![Screenshot 2025-07-07 143439](https://github.com/user-attachments/assets/f087ff1e-a50f-443c-bd3e-929b30e55665)
+
